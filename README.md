@@ -25,6 +25,8 @@ a match prediction model and a live, self-updating title-race simulator.
 **Full project:** [github.com/ChTej00/Arsenal-Bottle](https://github.com/ChTej00/Arsenal-Bottle)
 **Live site:** [arsenal-bottle.streamlit.app](https://arsenal-bottle.streamlit.app)
 
+Special Thanks: Prof RB Luo :D
+
 ## Contents
 
 - `src/`: R scripts for data preparation and analysis
