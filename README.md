@@ -1,7 +1,7 @@
 # Arsenal Bottle (COMP2501 version, R)
 
 The original version of [Arsenal Bottle](https://github.com/ChTej00/Arsenal-Bottle),
-built in R as a course project for COMP2501 at the University of Hong Kong.
+built in R as a course project for COMP2501 at the University of Hong Kong (See FinalPresentationGit.pdf for the final in-class presented presentation).
 
 **The question:** Did Arsenal "bottle" the Premier League title, performing worse
 in high-pressure matches than in ordinary ones?
